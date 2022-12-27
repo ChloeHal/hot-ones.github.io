@@ -1,19 +1,19 @@
 
-$blue: #577AB6;
+$blue: #4c70ae;
 $primary:$blue;
 $red: #f45e30;
 $secondary:$red;
-$green: #b8a93b;
+$green: #a99c37;
 $success:$green;
-$yellow: #ddf46f;
+$yellow: #e2f681;
 $info:$yellow;
 $purple: #d2bbd2;
 $warning:$purple;
 $white:#f2e9df;
 $danger:$white;
 $card-border-color: rgba(0, 0, 255, 0);
-$input-border-color: #e3d0bb;
-$input-placeholder-color:#c59e73 ;
+$input-border-color: $red;
+$input-placeholder-color: $red ;
 h1{
     font-family: "orelega one";
 }
